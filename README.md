@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Tufelo Minenhle Madlala
 
-<!--
-**Tufelo/Tufelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT student at Richfield Graduate Institution of Technology  
+📊 N6 Business Management graduate from Mnambithi TVET College  
+💡 Passionate about blending tech with strategy to build impactful solutions
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **NestléLife** – Wellness platform aligned with Nestlé’s values  
+- **Uncovering KZN** – Tourism showcase built with a team  
+- **KZN Hidden Gems Game** – Probability-based educational game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+`Python` `Java` `PHP` `SQL` `HTML/CSS/JS`  
+`XAMPP` `IntelliJ IDEA` `PyCharm` `Visual Studio`  
+Web development | Database integration | Interactive design
+
+## 🌍 Interests
+- Creating educational tools and games  
+- Promoting local culture through tech  
+- Exploring advanced web features and AI integration
+
+📫 Reach me at: [LinkedIn](https://linkedin.com/in/tufelo) | [GitHub](https://github.com/Tufelo)
